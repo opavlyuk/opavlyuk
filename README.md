@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olexandr-pavlyuk-6a8799107/)  
 
 
-[![CKA](https://img.shields.io/badge/CKA-Certified-blue?style=for-the-badge&logo=kubernetes&logoColor=white)]([https://www.cncf.io/certification/cka/](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/88dcd997-0fe0-459a-b5ce-0dea50a5dc09-oleksandr-pavliuk-b93f331d-3f2e-4f24-a163-9a7d17700caa-certificate.pdf)
+[![CKA](https://img.shields.io/badge/CKA-Certified-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/88dcd997-0fe0-459a-b5ce-0dea50a5dc09-oleksandr-pavliuk-b93f331d-3f2e-4f24-a163-9a7d17700caa-certificate.pdf)
 [![CKAD](https://img.shields.io/badge/CKAD-Certified-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/88dcd997-0fe0-459a-b5ce-0dea50a5dc09-oleksandr-pavliuk-93c7a46b-90df-49d5-981d-079b06342e12-certificate.pdf)
 
 ---
